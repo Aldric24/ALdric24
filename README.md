@@ -8,13 +8,6 @@ I'm an avid IT enthusiast with a profound fascination for the world of technolog
 - Bachelor of Science in Informatics at Kaunas University of Technology, Lithuania
 - Erasmus Exchange Program in Informatics at the University of West Attica, Athens, Greece
 
-🏆 Achievements:
-- Winner of KTU Football Cup 🏆
-- Runner-Up in Barakiada Football Tournament 🥈
-- Holder of 3 Youth Pass Certifications
-- Regional Runner-Up in Science Innovation Competition 🥈
-- Proudly the only middle school player on my high school football team ⚽
-
 🌎 International Experience:
 My academic journey has taken me from the vibrant city of Kaunas, Lithuania 🇱🇹, to the historical city of Athens, Greece 🇬🇷. Along the way, I've had the privilege of not only learning about a wide range of tech concepts but also experiencing diverse cultures and perspectives.
 
