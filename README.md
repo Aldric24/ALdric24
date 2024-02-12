@@ -1,5 +1,5 @@
 👋 Hi, I'm Aldric Shaun Rajesh
-🎮 Passionate Game Developer | 🧑‍💻 Full-Stack Developer | Vice President at ESN KTU
+🎮 Passionate Game Developer | 🧑‍💻 Game Developer at BigSmall Games
 
 🌟 About Me:
 I'm an avid IT enthusiast with a profound fascination for the world of technology. My journey in the IT realm began during my high school days when I started pondering the mechanics behind video games, igniting a curiosity that would shape my career path. As I delved deeper, I ventured into programming during my later high school years, and that's when my passion for all things IT truly took off. 
